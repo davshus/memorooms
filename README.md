@@ -1,5 +1,5 @@
 #MemoRooms
-###One of 3 winners of the Educational Track at hackNYU '17
+###A winner of the Educational Track at hackNYU '17
 ![alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/000/474/999/datas/full_width.png "hackNYU 2017")
 ####This is an *archive*.
 
